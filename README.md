@@ -14,7 +14,9 @@ The web penetration testing assessment will be conducted using the OWASP Top 10 
 - Exploitation: Attempt to exploit any identified vulnerabilities using tools like Metasploit.
 - Reporting: Document any vulnerabilities that were identified and exploited in a report, classified according to the OWASP Top 10.
 ## Usage
-To use this repository, simply clone it to your local machine and follow the steps outlined in the Methodology section above.
+To use this repository, simply :
+- clone it to your local machine to see the results in HTML format.
+- follow the steps outlined in the Methodology section above.
 ## Reporting
 The results of the web penetration testing assessment will be documented in a report, classified according to the OWASP Top 10. The report will also include a checklist of testing techniques performed based on the OWASP-Web-Checklist. The report will be included in the repository once complete.
 ## Conclusion
